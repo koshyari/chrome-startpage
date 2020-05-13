@@ -1,20 +1,20 @@
 {
   "squares": [
-    { "name": "media", "links": [
+    { "name": "Media", "links": [
 	{ "name": "Youtube", "url": "https://youtube.com" },
 	{ "name": "Netflix", "url": "https://netflix.com" },
 	{ "name": "Twitch", "url": "https://www.twitch.tv/" }
       ]
     },
-    { "name": "work", "links": [
+    { "name": "Work", "links": [
         { "name": "Github", "url": "https://github.com" },
         { "name": "localhost", "url": "http://localhost:8000/" }
       ]
     },
-    { "name": "social", "links": [
+    { "name": "Social", "links": [
         { "name": "Facebook", "url": "https://facebook.com" },
         { "name": "Instagram", "url": "https://instagram.com" },
-        { "name": "Twitter", "url": "https://twitter.com" },
+        { "name": "Whatsapp", "url": "https://web.whatsapp.com/" },
         { "name": "r/unixporn", "url": "https://www.reddit.com/r/unixporn/" }
       ]
     },
