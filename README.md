@@ -1,6 +1,8 @@
 # Chrome Startpage
 Minimal aesthetic startpage for chrome
 
+<img src="/home/anshul/Pictures/screenshots/startpage.png">
+
 ## How to Use
 
 - Clone the repo
